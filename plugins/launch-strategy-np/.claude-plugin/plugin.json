@@ -1,0 +1,26 @@
+{
+  "name": "launch-strategy-np",
+  "displayName": "Nepal Launch Strategy",
+  "version": "0.1.0",
+  "description": "Product launch strategy for the Nepal market: a launch plan with first buyers, positioning, channels, NPR budget and 90-day timeline; a readiness check covering the E-Commerce Act listing, payments, delivery, returns and trust signals; a Bikram Sambat launch calendar around Dashain, Tihar, Teej, New Year, wedding seasons and fiscal-year end; launch pricing and offers in NPR; and a post-launch retrospective from your own data. Nothing invented: no fake numbers, reviews or urgency.",
+  "author": {
+    "name": "ICT Matrics Pvt. Ltd.",
+    "url": "https://github.com/ictmatrics"
+  },
+  "homepage": "https://github.com/ictmatrics/product-launching/tree/main/plugins/launch-strategy-np",
+  "repository": "https://github.com/ictmatrics/product-launching",
+  "license": "MIT",
+  "keywords": [
+    "product-launch",
+    "go-to-market",
+    "nepal",
+    "launch-plan",
+    "festival-calendar",
+    "bikram-sambat",
+    "pricing",
+    "nepali-market"
+  ],
+  "privacyPolicyUrl": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-strategy-np/PRIVACY.md",
+  "supportUrl": "https://github.com/ictmatrics/product-launching/issues",
+  "documentationUrl": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-strategy-np/README.md"
+}

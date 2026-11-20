@@ -1,0 +1,26 @@
+{
+  "name": "launch-seo-np",
+  "displayName": "Nepal Launch SEO & AI Visibility",
+  "version": "0.1.0",
+  "description": "Search visibility for a Nepal launch: launch-page SEO checks (titles, headings, NPR Product schema, Open Graph previews for Facebook and Viber sharing, mobile speed on mid-range Android); search-word maps in English, Nepali and Romanized Nepali; Google Business Profile and local 'near me' checks for places without formal street addresses; and AI answer visibility with prompt panels in three scripts. Evidence-based; no fake reviews or invented search volumes.",
+  "author": {
+    "name": "ICT Matrics Pvt. Ltd.",
+    "url": "https://github.com/ictmatrics"
+  },
+  "homepage": "https://github.com/ictmatrics/product-launching/tree/main/plugins/launch-seo-np",
+  "repository": "https://github.com/ictmatrics/product-launching",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "local-seo",
+    "google-business-profile",
+    "keyword-research",
+    "nepali-keywords",
+    "ai-search",
+    "geo",
+    "nepal"
+  ],
+  "privacyPolicyUrl": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-seo-np/PRIVACY.md",
+  "supportUrl": "https://github.com/ictmatrics/product-launching/issues",
+  "documentationUrl": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-seo-np/README.md"
+}

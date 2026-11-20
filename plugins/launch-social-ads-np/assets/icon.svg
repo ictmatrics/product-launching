@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect x="0" y="0" width="512" height="512" rx="112" fill="#E8710A"/>
+  <path d="M96 392 L196 212 L256 300 L316 176 L416 392 Z" fill="#FFFFFF" opacity="0.92"/>
+  <path d="M316 176 L344 232 L300 232 Z" fill="#E8710A" opacity="0.35"/>
+  <circle cx="384" cy="132" r="34" fill="#FFFFFF"/>
+  <text x="256" y="462" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" text-anchor="middle" fill="#FFFFFF">SOCIAL</text>
+</svg>

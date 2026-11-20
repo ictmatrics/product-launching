@@ -1,0 +1,35 @@
+{
+  "name": "product-launching",
+  "description": "Skills-only Claude plugins by ICT Matrics for launching products in the Nepal market: launch strategy, copywriting, social media and ads, sales inquiries, SEO and AI visibility.",
+  "owner": {
+    "name": "ICT Matrics Pvt. Ltd.",
+    "url": "https://github.com/ictmatrics"
+  },
+  "plugins": [
+    {
+      "name": "launch-strategy-np",
+      "source": "./plugins/launch-strategy-np",
+      "description": "Plan, time, price and review a launch in Nepal. Product launch strategy for the Nepal market."
+    },
+    {
+      "name": "launch-copy-np",
+      "source": "./plugins/launch-copy-np",
+      "description": "Write, edit and check launch copy for Nepali buyers. Launch copywriting for the Nepal market, built on the fact-locked Copywriting Editor Kit."
+    },
+    {
+      "name": "launch-social-ads-np",
+      "source": "./plugins/launch-social-ads-np",
+      "description": "Launch posts, Meta ads, short videos and creator briefs. Social media and paid launch content for Nepal."
+    },
+    {
+      "name": "launch-sales-np",
+      "source": "./plugins/launch-sales-np",
+      "description": "Turn launch inquiries into orders. Sales follow-through for a Nepal launch."
+    },
+    {
+      "name": "launch-seo-np",
+      "source": "./plugins/launch-seo-np",
+      "description": "Get the launch found on Google, Maps and AI answers. Search visibility for a Nepal launch."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "launch-seo-np",
+  "version": "0.1.0",
+  "description": "Search visibility for a Nepal launch: launch-page SEO checks (titles, headings, NPR Product schema, Open Graph previews for Facebook and Viber sharing, mobile speed on mid-range Android); search-word maps in English, Nepali and Romanized Nepali; Google Business Profile and local 'near me' checks for places without formal street addresses; and AI answer visibility with prompt panels in three scripts. Evidence-based; no fake reviews or invented search volumes.",
+  "author": {
+    "name": "ICT Matrics Pvt. Ltd.",
+    "url": "https://github.com/ictmatrics"
+  },
+  "homepage": "https://github.com/ictmatrics/product-launching/tree/main/plugins/launch-seo-np",
+  "repository": "https://github.com/ictmatrics/product-launching",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "local seo",
+    "google business profile",
+    "keyword research",
+    "nepali keywords",
+    "ai search",
+    "geo",
+    "nepal"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Nepal Launch SEO & AI Visibility",
+    "shortDescription": "Get the launch found on Google, Maps and AI answers",
+    "longDescription": "Search visibility for a Nepal launch: launch-page SEO checks (titles, headings, NPR Product schema, Open Graph previews for Facebook and Viber sharing, mobile speed on mid-range Android); search-word maps in English, Nepali and Romanized Nepali; Google Business Profile and local 'near me' checks for places without formal street addresses; and AI answer visibility with prompt panels in three scripts. Evidence-based; no fake reviews or invented search volumes.",
+    "developerName": "ICT Matrics",
+    "category": "Business & Operations",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "brandColor": "#6A1B9A",
+    "brandColorDark": "#BA68C8",
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg",
+    "defaultPrompt": [
+      "Check the SEO of our launch page: https://example.com/pahadi-maha",
+      "Keyword map for an udharo app for shops in Nepal, in English, Nepali and Romanized.",
+      "Pokhara ma naya café kholdai chhau, Google Business Profile kasari setup garne?"
+    ],
+    "websiteURL": "https://github.com/ictmatrics/product-launching",
+    "privacyPolicyURL": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-seo-np/PRIVACY.md",
+    "supportURL": "https://github.com/ictmatrics/product-launching/issues"
+  }
+}

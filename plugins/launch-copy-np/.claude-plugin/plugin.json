@@ -1,0 +1,26 @@
+{
+  "name": "launch-copy-np",
+  "displayName": "Nepal Launch Copywriting",
+  "version": "0.1.0",
+  "description": "Launch copywriting for the Nepal market, built on the fact-locked Copywriting Editor Kit: draft landing, product, pricing and about pages from your facts; edit copy with every price, date and claim kept; diagnose why a page does not convert for Nepali buyers (price, delivery, COD, returns, address, trust); check claims like 'No. 1 in Nepal', '100% original' and 'organic' against your evidence with Nepal rule flags; capture a brand voice covering Nepali, English and Romanized language mix; and adapt copy between English, Nepali and code-mixed Nepali without translation-speak.",
+  "author": {
+    "name": "ICT Matrics Pvt. Ltd.",
+    "url": "https://github.com/ictmatrics"
+  },
+  "homepage": "https://github.com/ictmatrics/product-launching/tree/main/plugins/launch-copy-np",
+  "repository": "https://github.com/ictmatrics/product-launching",
+  "license": "MIT",
+  "keywords": [
+    "copywriting",
+    "nepali-copywriting",
+    "landing-page",
+    "claims-check",
+    "brand-voice",
+    "bilingual",
+    "romanized-nepali",
+    "nepal"
+  ],
+  "privacyPolicyUrl": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-copy-np/PRIVACY.md",
+  "supportUrl": "https://github.com/ictmatrics/product-launching/issues",
+  "documentationUrl": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-copy-np/README.md"
+}

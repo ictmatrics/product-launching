@@ -1,0 +1,46 @@
+{
+  "name": "launch-sales-np",
+  "version": "0.1.0",
+  "description": "Sales follow-through for a Nepal launch: saved replies and chat replies for Messenger, Instagram, WhatsApp, Viber and comments ('price?', 'COD milcha?', 'original ho?', size, haggling, confirmation, complaints) in Romanized Nepali, Nepali or English; sorting launch comments and inquiries into ready buyers, interested, resellers and complaints with reply drafts; consent-based SMS, Viber and email launch messages; and Daraz-style marketplace listings. Drafts only; never sends; no pressure tactics.",
+  "author": {
+    "name": "ICT Matrics Pvt. Ltd.",
+    "url": "https://github.com/ictmatrics"
+  },
+  "homepage": "https://github.com/ictmatrics/product-launching/tree/main/plugins/launch-sales-np",
+  "repository": "https://github.com/ictmatrics/product-launching",
+  "license": "MIT",
+  "keywords": [
+    "messenger",
+    "customer replies",
+    "sales scripts",
+    "cod",
+    "sms marketing",
+    "viber",
+    "daraz",
+    "nepal"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Nepal Launch Sales & Inquiries",
+    "shortDescription": "Turn launch inquiries into orders",
+    "longDescription": "Sales follow-through for a Nepal launch: saved replies and chat replies for Messenger, Instagram, WhatsApp, Viber and comments ('price?', 'COD milcha?', 'original ho?', size, haggling, confirmation, complaints) in Romanized Nepali, Nepali or English; sorting launch comments and inquiries into ready buyers, interested, resellers and complaints with reply drafts; consent-based SMS, Viber and email launch messages; and Daraz-style marketplace listings. Drafts only; never sends; no pressure tactics.",
+    "developerName": "ICT Matrics",
+    "category": "Business & Operations",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "brandColor": "#2E7D32",
+    "brandColorDark": "#66BB6A",
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg",
+    "defaultPrompt": [
+      "Make Messenger saved replies for our honey launch: Rs 650/500 g, COD, valley Rs 100 (1–2 days), outside Rs 200 (3–5 days).",
+      "Sort these 40 comments on our launch post and draft replies for the ready buyers.",
+      "Launch ko SMS lekhidinus, existing customers lai, Roman script ma."
+    ],
+    "websiteURL": "https://github.com/ictmatrics/product-launching",
+    "privacyPolicyURL": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-sales-np/PRIVACY.md",
+    "supportURL": "https://github.com/ictmatrics/product-launching/issues"
+  }
+}

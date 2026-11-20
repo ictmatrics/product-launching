@@ -1,0 +1,46 @@
+{
+  "name": "launch-social-ads-np",
+  "version": "0.1.0",
+  "description": "Social media and paid launch content for Nepal: launch-week posts for Facebook, Instagram, TikTok, LinkedIn and Viber with prices and order steps visible; Meta (Facebook/Instagram) ad structures and copy with click-to-Messenger flows and NPR budgets; short video and live-selling scripts a small team can shoot on a phone; and creator/influencer briefs with mandatory sponsored disclosure under the National Advertising Policy 2083. Only real offers and proof; no fake engagement.",
+  "author": {
+    "name": "ICT Matrics Pvt. Ltd.",
+    "url": "https://github.com/ictmatrics"
+  },
+  "homepage": "https://github.com/ictmatrics/product-launching/tree/main/plugins/launch-social-ads-np",
+  "repository": "https://github.com/ictmatrics/product-launching",
+  "license": "MIT",
+  "keywords": [
+    "social media",
+    "facebook ads",
+    "meta ads",
+    "tiktok",
+    "reels",
+    "influencer marketing",
+    "nepal",
+    "launch campaign"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Nepal Launch Social & Ads",
+    "shortDescription": "Launch posts, Meta ads, short videos and creator briefs",
+    "longDescription": "Social media and paid launch content for Nepal: launch-week posts for Facebook, Instagram, TikTok, LinkedIn and Viber with prices and order steps visible; Meta (Facebook/Instagram) ad structures and copy with click-to-Messenger flows and NPR budgets; short video and live-selling scripts a small team can shoot on a phone; and creator/influencer briefs with mandatory sponsored disclosure under the National Advertising Policy 2083. Only real offers and proof; no fake engagement.",
+    "developerName": "ICT Matrics",
+    "category": "Business & Operations",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "brandColor": "#E8710A",
+    "brandColorDark": "#FFA552",
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg",
+    "defaultPrompt": [
+      "Write a week of launch posts for Dhaka Ghar's new dhaka jackets, Rs 4,500, launching Mangsir 10.",
+      "Click-to-Messenger ad copy for our Tihar coffee gift box, Rs 1,800, valley delivery only.",
+      "TikTok ko lagi 20-second launch video script, Sathi Khata app ko lagi."
+    ],
+    "websiteURL": "https://github.com/ictmatrics/product-launching",
+    "privacyPolicyURL": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-social-ads-np/PRIVACY.md",
+    "supportURL": "https://github.com/ictmatrics/product-launching/issues"
+  }
+}

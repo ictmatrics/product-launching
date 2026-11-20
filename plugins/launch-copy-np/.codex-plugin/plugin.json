@@ -1,0 +1,46 @@
+{
+  "name": "launch-copy-np",
+  "version": "0.1.0",
+  "description": "Launch copywriting for the Nepal market, built on the fact-locked Copywriting Editor Kit: draft landing, product, pricing and about pages from your facts; edit copy with every price, date and claim kept; diagnose why a page does not convert for Nepali buyers (price, delivery, COD, returns, address, trust); check claims like 'No. 1 in Nepal', '100% original' and 'organic' against your evidence with Nepal rule flags; capture a brand voice covering Nepali, English and Romanized language mix; and adapt copy between English, Nepali and code-mixed Nepali without translation-speak.",
+  "author": {
+    "name": "ICT Matrics Pvt. Ltd.",
+    "url": "https://github.com/ictmatrics"
+  },
+  "homepage": "https://github.com/ictmatrics/product-launching/tree/main/plugins/launch-copy-np",
+  "repository": "https://github.com/ictmatrics/product-launching",
+  "license": "MIT",
+  "keywords": [
+    "copywriting",
+    "nepali copywriting",
+    "landing page",
+    "claims check",
+    "brand voice",
+    "bilingual",
+    "romanized nepali",
+    "nepal"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Nepal Launch Copywriting",
+    "shortDescription": "Write, edit and check launch copy for Nepali buyers",
+    "longDescription": "Launch copywriting for the Nepal market, built on the fact-locked Copywriting Editor Kit: draft landing, product, pricing and about pages from your facts; edit copy with every price, date and claim kept; diagnose why a page does not convert for Nepali buyers (price, delivery, COD, returns, address, trust); check claims like 'No. 1 in Nepal', '100% original' and 'organic' against your evidence with Nepal rule flags; capture a brand voice covering Nepali, English and Romanized language mix; and adapt copy between English, Nepali and code-mixed Nepali without translation-speak.",
+    "developerName": "ICT Matrics",
+    "category": "Business & Operations",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "brandColor": "#003893",
+    "brandColorDark": "#5B8DEF",
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg",
+    "defaultPrompt": [
+      "Write a launch landing page for Pahadi Maha raw honey: Rs 650 for 500 g, hives in Sindhupalchok, COD and eSewa, valley delivery Rs 100.",
+      "Edit this, keep every number: 'Nepal's No. 1 khata app!!! 100% guaranteed. Price inbox ma.'",
+      "Yo tagline Nepali ma natural banaidinus: 'Keep your shop's udharo on your phone.'"
+    ],
+    "websiteURL": "https://github.com/ictmatrics/product-launching",
+    "privacyPolicyURL": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-copy-np/PRIVACY.md",
+    "supportURL": "https://github.com/ictmatrics/product-launching/issues"
+  }
+}

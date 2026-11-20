@@ -1,0 +1,26 @@
+{
+  "name": "launch-social-ads-np",
+  "displayName": "Nepal Launch Social & Ads",
+  "version": "0.1.0",
+  "description": "Social media and paid launch content for Nepal: launch-week posts for Facebook, Instagram, TikTok, LinkedIn and Viber with prices and order steps visible; Meta (Facebook/Instagram) ad structures and copy with click-to-Messenger flows and NPR budgets; short video and live-selling scripts a small team can shoot on a phone; and creator/influencer briefs with mandatory sponsored disclosure under the National Advertising Policy 2083. Only real offers and proof; no fake engagement.",
+  "author": {
+    "name": "ICT Matrics Pvt. Ltd.",
+    "url": "https://github.com/ictmatrics"
+  },
+  "homepage": "https://github.com/ictmatrics/product-launching/tree/main/plugins/launch-social-ads-np",
+  "repository": "https://github.com/ictmatrics/product-launching",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "facebook-ads",
+    "meta-ads",
+    "tiktok",
+    "reels",
+    "influencer-marketing",
+    "nepal",
+    "launch-campaign"
+  ],
+  "privacyPolicyUrl": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-social-ads-np/PRIVACY.md",
+  "supportUrl": "https://github.com/ictmatrics/product-launching/issues",
+  "documentationUrl": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-social-ads-np/README.md"
+}

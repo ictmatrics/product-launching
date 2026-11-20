@@ -1,0 +1,46 @@
+{
+  "name": "launch-strategy-np",
+  "version": "0.1.0",
+  "description": "Product launch strategy for the Nepal market: a launch plan with first buyers, positioning, channels, NPR budget and 90-day timeline; a readiness check covering the E-Commerce Act listing, payments, delivery, returns and trust signals; a Bikram Sambat launch calendar around Dashain, Tihar, Teej, New Year, wedding seasons and fiscal-year end; launch pricing and offers in NPR; and a post-launch retrospective from your own data. Nothing invented: no fake numbers, reviews or urgency.",
+  "author": {
+    "name": "ICT Matrics Pvt. Ltd.",
+    "url": "https://github.com/ictmatrics"
+  },
+  "homepage": "https://github.com/ictmatrics/product-launching/tree/main/plugins/launch-strategy-np",
+  "repository": "https://github.com/ictmatrics/product-launching",
+  "license": "MIT",
+  "keywords": [
+    "product launch",
+    "go-to-market",
+    "nepal",
+    "launch plan",
+    "festival calendar",
+    "bikram sambat",
+    "pricing",
+    "nepali market"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Nepal Launch Strategy",
+    "shortDescription": "Plan, time, price and review a launch in Nepal",
+    "longDescription": "Product launch strategy for the Nepal market: a launch plan with first buyers, positioning, channels, NPR budget and 90-day timeline; a readiness check covering the E-Commerce Act listing, payments, delivery, returns and trust signals; a Bikram Sambat launch calendar around Dashain, Tihar, Teej, New Year, wedding seasons and fiscal-year end; launch pricing and offers in NPR; and a post-launch retrospective from your own data. Nothing invented: no fake numbers, reviews or urgency.",
+    "developerName": "ICT Matrics",
+    "category": "Business & Operations",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "brandColor": "#C8102E",
+    "brandColorDark": "#F0566B",
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg",
+    "defaultPrompt": [
+      "Plan the launch of Sathi Khata, an Rs 299/month udharo app, for kirana shops in Rupandehi before Dashain.",
+      "Are we ready to launch? We sell dhaka kurtas on Facebook, COD only, no return policy yet.",
+      "Dashain ma honey launch garne, kahile suru garne ra kasto calendar banaune?"
+    ],
+    "websiteURL": "https://github.com/ictmatrics/product-launching",
+    "privacyPolicyURL": "https://github.com/ictmatrics/product-launching/blob/main/plugins/launch-strategy-np/PRIVACY.md",
+    "supportURL": "https://github.com/ictmatrics/product-launching/issues"
+  }
+}
