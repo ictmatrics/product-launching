@@ -30,8 +30,8 @@
       "Interactive",
       "Read"
     ],
-    "brandColor": "#C8102E",
-    "brandColorDark": "#F0566B",
+    "brandColor": "#27AAE1",
+    "brandColorDark": "#52BBE7",
     "logo": "./assets/icon.svg",
     "composerIcon": "./assets/icon.svg",
     "defaultPrompt": [

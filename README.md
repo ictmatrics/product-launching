@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/ictmatrics"><img src="assets/ictmatrics-logo.png" alt="ICT Matrics" width="420"></a>
+</p>
+
 # Product Launching: Claude skills for launching products in Nepal
 
 Free, skills-only Claude plugins by [ICT Matrics](https://github.com/ictmatrics) for planning, writing and running a product launch for Nepali buyers: from the first launch plan to Messenger replies, Daraz listings and Google Maps.

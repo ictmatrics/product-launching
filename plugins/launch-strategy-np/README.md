@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/ictmatrics-logo.png" alt="ICT Matrics" width="320"></p>
+
 # Nepal Launch Strategy
 
 Part of [Product Launching](../../README.md), Claude skills for launching products in Nepal, by ICT Matrics.

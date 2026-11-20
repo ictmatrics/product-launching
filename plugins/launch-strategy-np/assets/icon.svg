@@ -1,7 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="0" y="0" width="512" height="512" rx="112" fill="#C8102E"/>
-  <path d="M96 392 L196 212 L256 300 L316 176 L416 392 Z" fill="#FFFFFF" opacity="0.92"/>
-  <path d="M316 176 L344 232 L300 232 Z" fill="#C8102E" opacity="0.35"/>
-  <circle cx="384" cy="132" r="34" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="512" height="512" rx="112" fill="#27AAE1"/>
+  <path d="M80 380 L190 196 L252 292 L318 168 L432 380 Z" fill="#FFFFFF"/>
+  <path d="M318 168 L348 226 L300 226 Z" fill="#6A8CA1" opacity="0.45"/>
+  <circle cx="390" cy="120" r="44" fill="#FFFFFF"/>
+  <circle cx="390" cy="120" r="30" fill="#ED1C24"/>
+  <circle cx="390" cy="120" r="17" fill="#FFFFFF"/>
+  <circle cx="390" cy="120" r="8" fill="#ED1C24"/>
   <text x="256" y="462" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" text-anchor="middle" fill="#FFFFFF">PLAN</text>
 </svg>
